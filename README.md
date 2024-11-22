@@ -17,9 +17,6 @@ Here are the technologies and tools I am learning and working with:
 ## 🏆 GitHub Stats
 ![dong0707k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dong0707k&show_icons=true&theme=radical)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dong0707k&theme=radical)
-
 ## 💼 Featured Projects
 ### 1. **[repository Name - test](https://github.com/dong0707k/test)**
 - **Tech Stack**: python

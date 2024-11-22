@@ -11,8 +11,9 @@ Here are the technologies and tools I am learning and working with:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-DF3022?style=flat&logo=autodesk&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-3B9E2A?style=flat&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ## 💼 Featured Projects
 ### 1. **[Project Name - 2D Platformer](https://github.com/username/project)**

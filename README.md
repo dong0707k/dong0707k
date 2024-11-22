@@ -22,7 +22,7 @@ Here are the technologies and tools I am learning and working with:
 - **Tech Stack**: python
 - **Description**: Experimenting with the basic functions of GitHub and getting closer to GitHub
 
-🤝 Collaboration & Teamwork
+##🤝 Collaboration & Teamwork
 I believe in the power of teamwork to create amazing games. I’m always open to collaborating with other developers, artists, and designers on exciting projects.
 
 Tools & Platforms

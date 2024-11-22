@@ -39,7 +39,7 @@ Feel free to reach out if you're interested in working together on game developm
 - **Email**: [dong0707k@gmail.com](mailto:dong0707k@gmail.com)
 
 
-## 🎯 Goal
+## 🎯 Final Goal
 As a game development student, my goal is to continue expanding my knowledge of **game engines**, **AI programming**, and **interactive storytelling**. I am working towards creating my own indie games and contributing to larger projects in the future. My ultimate ambition is to work as a game developer in a dynamic and creative team, bringing innovative ideas to life in the gaming industry.
 
 

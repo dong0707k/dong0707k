@@ -2,14 +2,15 @@
 
 ## 🚀 Profession & Goal
 - **Game Development Student** | Aspiring Game Developer
-- I'm a university student currently learning the ins and outs of game development. I'm passionate about creating engaging and interactive gaming experiences. My goal is to master the fundamentals of **game design**, **C#**, and **Unity**. I'm particularly interested in **2D and 3D game development**, **AI programming**, and **interactive storytelling** in games.
+- I'm a university student currently learning the ins and outs of game development. I'm passionate about creating engaging and interactive gaming experiences. My goal is to master the fundamentals of **game design**, **C#**, and **Unity**. I'm particularly interested in **2D and 3D game development**, **AI programming** in games.
 
 ## 🛠️ Tech Stack & Tools
 Here are the technologies and tools I am learning and working with:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-DF3022?style=flat&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 💼 Featured Projects

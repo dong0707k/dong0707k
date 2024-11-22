@@ -22,13 +22,8 @@ These are the tools and technologies I use in my game development projects:
 - **Description**: A multiplayer game focused on creating seamless online experiences. I worked on the networking and server-side architecture to handle real-time multiplayer interactions.
 
 ## 📫 Contact Me
-- **Email**: [email@example.com](mailto:email@example.com)
-- **LinkedIn**: [John Doe's LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Portfolio**: [John Doe's Portfolio](https://yourportfolio.com)
+- **Email**: [dong0707k@gmail.com](mailto:dong0707k@gmail.com)
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🤝 Collaboration & Contribution
 - I am always open to collaborating on game development projects! Whether it's game design, programming, or testing, feel free to reach out and contribute.
